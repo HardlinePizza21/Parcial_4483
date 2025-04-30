@@ -1,3 +1,7 @@
+Realizado por: Samuel Madrid Ossa
+                Diego Jaramillo 
+                Emmanuel Hernandez
+
 # Parcial de Teoría de la Conmutación
 
 En este repositorio se encuentra un proyecto creado con **PlatformIO** que usa el framework de **Arduino** y la placa **ESP32 DevKit V1**.  
